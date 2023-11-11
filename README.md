@@ -2,7 +2,7 @@
 Intro:<br>
 A http web proxy<br>
 TCP Connection<br>
-Socket Programming in Python
+Socket programming in Python
 
 ## what is supported?
 1. HTTP 1.0/1.1 Requests<br>
